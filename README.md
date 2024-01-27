@@ -4,6 +4,6 @@ In this GitHub repository I have made three AI models to help optimize clinical 
 
 For more information here's an article I wrote on how you can also implement AI in clinical trial applications:[ bit.ly/optimizing-clinical-trials-with-AI](url)
 
-For more detailed steps on documentation check out[ `https://github.com/RyanWangZf/PyTrial?tab=readme-ov-file`](url) and [`https://pytrial.readthedocs.io/en/latest/`](url).
+For more detailed steps on documentation check out [ `https://github.com/RyanWangZf/PyTrial?tab=readme-ov-file`](url) and [`https://pytrial.readthedocs.io/en/latest/`](url).
 
 
